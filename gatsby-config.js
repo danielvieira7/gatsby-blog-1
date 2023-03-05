@@ -9,13 +9,13 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Faculdade de Ciência da Computação Barata`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Jeff`,
+      summary: `Mora e trabalha em São Paulo e compartilha conhecimento sobre tecnologia e ciência da computação.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Faculdade de Ciência da Computação Barata - Curso de Ciência da Computação`,
+    siteUrl: `https://gatsbyblog128392.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
     },
